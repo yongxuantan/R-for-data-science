@@ -9,3 +9,11 @@
 - TwitterSentimentAnalysis.docx
   - Goal: compare tweet scores as stock market price changes
   - Analysis type: sentence sentiment
+  
+#### Statistical methods
+- Poisson-MonteCarlo.pdf
+- Five-number-summary.pdf
+- Maximum-Likelihood-Estimator.pdf
+- Confidence-Interval.pdf
+- Correlation.pdf
+- Building-Model.pdf
