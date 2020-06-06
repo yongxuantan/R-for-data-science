@@ -10,6 +10,10 @@
   - Goal: compare tweet scores as stock market price changes
   - Analysis type: sentence sentiment
   
+ - InstaCart_Analysis.docx
+   - Goal: find items purchased together from Instacart orders
+   - Analysis type: association rules
+  
 #### Statistical methods
 - Poisson-MonteCarlo.pdf
 - Five-number-summary.pdf
